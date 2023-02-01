@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+![tal3nnn's Github Stats](https://github-readme-stats.vercel.app/api?username=tal3nnn&count_private=true&show_icons=true&theme=gotham)
 
 <!--
 **tal3nnn/tal3nnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
